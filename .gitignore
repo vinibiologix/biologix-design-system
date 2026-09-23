@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# NÃO ignorar output/ — os DESIGN.md gerados são commitados de propósito,
+# para que o diff de cada mudança fique visível no histórico e para que o
+# Claude Design possa consumi-los direto do repositório.
